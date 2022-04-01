@@ -1,2 +1,2 @@
-# Aula8-Repeticao-Vetor
-Exercícios de laços de repetição e vetor
+# Aula8-Repeticao
+Exercícios de laços de repetição.
